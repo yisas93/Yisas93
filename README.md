@@ -11,7 +11,7 @@ Working with version control systems like Git and GitHub
 Debugging and troubleshooting code using tools like Chrome Developer Tools
 Collaborating with team members and communicating technical information clearly
 
-![yisas93](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![yisas93's github stats](https://github-readme-stats.vercel.app/api?username=yisas93&show_icons=true&theme=dark)
 
 
 
