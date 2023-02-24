@@ -2,14 +2,18 @@ Juan carlos 👋
 
 About me
 
-I'm a developer with a strong foundation in programming fundamentals, my skills include:
+I'm a developer with a strong foundation in programming fundamentals:
 My skills include:
 
-Writing clean, maintainable code in languages like JavaScript, Python, and Java
-Developing basic front-end applications using HTML, CSS, and JavaScript
-Working with version control systems like Git and GitHub
-Debugging and troubleshooting code using tools like Chrome Developer Tools
-Collaborating with team members and communicating technical information clearly.
+-Writing clean, maintainable code in languages like JavaScript, Python, and Java
+
+-Developing basic front-end applications using HTML, CSS, and JavaScript
+
+-Working with version control systems like Git and GitHub
+
+-Debugging and troubleshooting code using tools like Chrome Developer Tools
+
+-Collaborating with team members and communicating technical information clearly.
 
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white&link=https://www.python.org/)
