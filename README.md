@@ -5,7 +5,7 @@ About me
 I'm a developer with a strong foundation in programming fundamentals:
 My skills include:
 
--Writing clean, maintainable code in languages like JavaScript, Python, and Java
+-Writing clean, maintainable code in languages like JavaScript and Python
 
 -Developing basic front-end applications using HTML, CSS, and JavaScript
 
